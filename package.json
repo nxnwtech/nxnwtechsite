@@ -4,10 +4,13 @@
   "scripts": {
     "build": "gridsome build",
     "develop": "gridsome develop",
-    "explore": "gridsome explore"
+    "explore": "gridsome explore",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
   },
   "dependencies": {
     "@gridsome/vue-remark": "^0.2.6",
+    "cypress": "^6.0.0",
     "gridsome": "^0.7.0"
   },
   "devDependencies": {
