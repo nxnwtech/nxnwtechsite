@@ -1,14 +1,43 @@
-# Default starter for Gridsome
+# NXNW tech Site
 
-This is the project you get when you run `gridsome create new-project`.
+### 1. Install app dependencies
 
-### 1. Install Gridsome CLI tool if you don't have
+`npm install`
 
-`npm install --global @gridsome/cli`
+### 2. Run build script
 
-### 2. Create a Gridsome project
+#### `gridsome develop` to start a local dev server at `http://localhost:8080`
 
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+#### `gridsome build` to build static files
+
+---
+
+# Application Tech
+
+## [Gridsome](https://gridsome.org/)
+
+#### Vue JS Static Site Generator
+
+## [Netlify](https://www.netlify.com/)
+
+#### Deployments, CD/CD, Forms, Cloud Functions
+
+## [Netlify CMS](https://www.netlifycms.org/)
+
+#### Git backed CMS
+
+## [Cypress](https://www.cypress.io/)
+
+#### End to End Testing
+
+## [Animate On Scroll](https://github.com/michalsnik/aos)
+
+#### Ui Animations
+
+## [SASS](https://sass-lang.com/)
+
+#### CSS preprocessor - scss
+
+## [Prettier](https://prettier.io/)
+
+#### Code Formatting
