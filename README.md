@@ -2,7 +2,7 @@
 
 ### 1. Install app dependencies
 
-`npm install`
+#### `npm install`
 
 ### 2. Run build script
 
