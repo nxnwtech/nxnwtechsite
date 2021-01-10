@@ -12,7 +12,7 @@
     "@gridsome/vue-remark": "^0.2.6",
     "aos": "^2.3.4",
     "cypress": "^6.0.0",
-    "gridsome": "^0.7.0",
+    "gridsome": "^0.7.23",
     "vue-scrollto": "^2.20.0"
   },
   "devDependencies": {
