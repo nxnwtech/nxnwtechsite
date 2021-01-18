@@ -13,6 +13,7 @@
     "aos": "^2.3.4",
     "cypress": "^6.0.0",
     "gridsome": "^0.7.23",
+    "gridsome-plugin-remark-shiki": "^0.6.0",
     "vue-scrollto": "^2.20.0"
   },
   "devDependencies": {
