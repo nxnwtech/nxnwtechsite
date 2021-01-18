@@ -5,7 +5,6 @@
       <div class="blog-post__body">
         <h1 class="blog-post__title">{{ post.title }}</h1>
         <h2 class="blog-post__description">{{ post.description }}</h2>
-        <button></button>
       </div>
     </g-link>
   </div>
@@ -17,7 +16,7 @@ export default {
 };
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 $primary: #0c1142;
 
 .blog-post {

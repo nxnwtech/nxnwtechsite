@@ -10,8 +10,9 @@ import 'aos/dist/aos.css';
 // smooth scrolling
 import VueScrollTo from 'vue-scrollto';
 
-// import main stylesheet
+// import stylesheet
 import '~/styles/main.scss';
+import '~/styles/blog.scss';
 
 export default function(Vue, { router, head, isClient }) {
   // Set default layout as a global component
