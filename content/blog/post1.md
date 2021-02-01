@@ -1,83 +1,21 @@
 ---
-title: First Blog Post
-description: Docker, Node JS & Express
-image: '/content/images/docker-node.jpg'
-date: 2020-09-09
-tags: ['angular', 'mongodb']
+title: nxnwtech - a short history
+description: nxnwtech, technology, meetup
+image: '/content/images/nxnwtech600x200.jpg'
+date: 2021-01-01
+tags: ['nxnwtech', 'technology', 'meetups']
 ---
 
-# An h1 header
+In 2017 a group of friends working in technology - John Brady, Paul Wallace and Ryan Bradley - came together to form a technology community in the Northwest of Ireland primarily centred in Donegal where the 3 colleagues worked together. **NorthbyNorthWestTechMeetup** meetup was formed to be later shorted to less of a mouthful **nxnwtech** and the community held their first meetup in the Rock Theatre of what was then the Pramerica Campus in November 2017 on the topic of **Conversational Technology** 
 
-Paragraphs are separated by a blank line.
+The first meetup included talks not suprisingly from the following speakers on the topics of:
 
-2nd paragraph. _Italic_, **bold**, and `monospace`. Itemized lists
-look like:
+-  Introduction to Conversational Technology - Paul Wallace
+-  Conversational Technology in Action - John Brady
+-  My Startup Story - Ryan Bradley
 
-lorem30
+Based on the success of the first meetup with an attendance of 70+ members and a very well received 'My Startup Story' section in particular the community commenced holding monthly meetups on a wide range of technology topics including `AI, Cloud Technology, AR / VR, Blockchain` kindly supported by local companies, colleges, speakers and startups who provided venues and most importantly free pizza and soft drinks for all attendees.
 
-- this one
-- that one
-- the other one
+The aim of **nxnwtech**  became simple, to connect the NxNW's technology community - the people who are making the North West and surrounding area's tech scene what is and those who are interested in keeping up to date - and in turn help drive the technology agenda in the region. The meetup continues to grow with 930+ members and since May of 2020 due to covid pandemic has successfully turned to virtual meetups successfully hosting 9 well attended meetups in 2nd half of 2020 on various topics including `DevSecops, Kubernetes, Serverless, Kafka, JAMStack`
 
-Note that --- not considering the asterisk --- the actual text
-content starts at 4-columns in.
-
-> Block quotes are
-> written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
-in chapters 12--14"). Three dots ... will be converted to an ellipsis.
-Unicode is supported. ☺
-
-## An h2 header
-
-Here's a numbered list:
-
-1.  first item
-2.  second item
-3.  third item
-
-Note again how the actual text starts at 4 columns in (4 characters
-from the left side). Here's a code sample:
-
-    # Let me re-iterate ...
-    for i in 1 .. 10 { do-something(i) }
-
-As you probably guessed, indented 4 spaces. By the way, instead of
-indenting the block, you can use delimited blocks, if you like:
-
-```
-define foobar() {
-    print "Welcome to flavor country!";
-}
-```
-
-(which makes copying & pasting easier). You can optionally mark the
-delimited block for Pandoc to syntax highlight it:
-
-```python
-import time
-# Quick, count to ten!
-for i in range(10):
-    # (but not *too* quick)
-    time.sleep(0.5)
-    print i
-```
-
-### An h3 header
-
-Now a nested list:
-
-1.  First, get these ingredients:
-
-    - carrots
-    - celery
-    - lentils
-
-2.  Boil some water.
-
-3.  Dump everything in the pot and follow
-    this algorithm:
+As we move further into 2021 we hope to continue to expand our membership to over 1000 members and continue to host informative and well attended in person 'nxnwtech M' and virtual 'nxnwtech V' meetups for the technology community of the north by north west.
